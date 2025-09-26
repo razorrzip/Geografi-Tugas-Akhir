@@ -19,7 +19,7 @@ body {
   /* Site-wide background with gradient overlay for readability */
   background-image:
     linear-gradient(180deg, rgba(2,6,23,0.78) 0%, rgba(2,6,23,0.7) 35%, rgba(2,6,23,0.65) 100%),
-    url('images/ohmygod.jpg');
+    url('ohmygod.jpg');
   background-size: cover;
   background-position: center;
   background-attachment: fixed;
